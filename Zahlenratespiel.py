@@ -17,7 +17,7 @@ while erraten == False:
         break
 
     elif versuch > gesuchte_zahl:
-        print("Die gesuchte Zahl ist kleiner.")
+        print("Versuche es erneut. (Die gesuchte Zahl ist kleiner)")
 
     else:
-        print("Die gesuchte Zahl ist größer.")
+        print("Versuche es erneut. (Die gesuchte Zahl ist größer)")
